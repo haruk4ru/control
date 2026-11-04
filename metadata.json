@@ -2,5 +2,7 @@
   "name": "재고관리",
   "description": "실시간 입고 및 사용 등록, 5개 미만 재고 주문 알림 기능을 제공하는 재고관리 시스템",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
